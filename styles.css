@@ -1,0 +1,18 @@
+body {
+    display: flex; 
+    justify-content: center;    /* vertical alignment */
+    align-content: center;      /* horizontal alignment */
+    align-items: center;
+    flex-direction: column;
+
+    height: 100vh;
+}
+
+li {
+    display: inline;
+}
+/*
+html {
+
+}
+*/
