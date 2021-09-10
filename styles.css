@@ -14,4 +14,6 @@ li {
 
 html {
     font-family: 'Open Sans Condensed', sans-serif;
+    background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+    
 }
