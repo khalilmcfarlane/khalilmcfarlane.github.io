@@ -6,6 +6,8 @@ body {
     flex-direction: column;
 
     height: 100vh;          /* center alignment */
+    background-repeat: no-repeat;
+    background-image: url("./images/23277.jpg")
 }
 
 li {
@@ -14,7 +16,11 @@ li {
 
 html {
     font-family: 'Century Gothic', sans-serif;
-    background-image: url("./images/23277.jpg")
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    /*background-image: url("./images/23277.jpg")
+    */
 }
 
 h1 {
