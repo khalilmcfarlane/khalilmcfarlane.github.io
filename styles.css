@@ -65,3 +65,10 @@ ul {
     color: whitesmoke;
 }
 
+.first-ul {
+    list-style-type: none;
+    color: whitesmoke;
+    font-size: 5px;
+    margin: 0;
+    padding: 0;  
+}
