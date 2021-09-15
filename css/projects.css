@@ -1,0 +1,36 @@
+body {
+    display: flex; 
+    justify-content: center;    /* vertical alignment */
+    align-content: center;      /* horizontal alignment */
+    align-items: center;
+    flex-direction: column;
+
+    height: 100vh;          /* center alignment */
+    background-repeat: no-repeat;
+}
+
+.box {
+    width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: whitesmoke;
+    font-family: 'Century Gothic', sans-serif;
+  }
+
+html {
+    font-family: 'Century Gothic', sans-serif;
+    background-image: url(".././images/53705.jpg");
+    background-size: auto 100%;
+}
+
+h1 {
+    color: whitesmoke;
+    font-size: 40px;
+    letter-spacing: 2px;
+    font-weight: 100;
+}
+/* TODO: ADD HOME BUTTON + Other button to another page 
+*/
