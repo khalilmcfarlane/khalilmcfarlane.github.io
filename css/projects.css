@@ -42,6 +42,10 @@ li {
     display: inline;
 }
 
+p {
+    color: whitesmoke;
+}
+
 li a {
     color: whitesmoke;
     text-decoration: none;
@@ -61,5 +65,3 @@ ul {
     margin: 0;
     padding: 0; 
 }
-/* TODO: ADD HOME BUTTON + Other button to another page 
-*/
