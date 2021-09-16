@@ -41,6 +41,7 @@ li a {
 li a:hover {
     color: #9bb9b9;
 }
+
 html {
     font-family: 'Century Gothic', sans-serif;
     background-image: url("./images/23277.jpg");
@@ -65,10 +66,3 @@ ul {
     color: whitesmoke;
 }
 
-.first-ul {
-    list-style-type: none;
-    color: whitesmoke;
-    font-size: 5px;
-    margin: 0;
-    padding: 0;  
-}

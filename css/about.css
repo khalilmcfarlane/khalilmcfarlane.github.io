@@ -19,6 +19,21 @@ body {
     color: whitesmoke;
     font-family: 'Century Gothic', sans-serif;
   }
+li {
+    display: inline;
+}
+
+li a {
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    transition: all ease-in-out 250ms;
+}
+
+li a:hover {
+    color: #9bb9b9;
+}
 
 html {
     font-family: 'Century Gothic', sans-serif;
@@ -31,6 +46,14 @@ h1 {
     font-size: 40px;
     letter-spacing: 2px;
     font-weight: 100;
+}
+
+ul {
+    list-style-type: none;
+    color: whitesmoke;
+    font-size: 5px;
+    margin: 0;
+    padding: 0; 
 }
 
 /* TODO: ADD HOME BUTTON + Other button to another page 
