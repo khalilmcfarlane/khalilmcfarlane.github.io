@@ -45,6 +45,7 @@ li a:hover {
 html {
     font-family: 'Century Gothic', sans-serif;
     background-image: url("./images/23277.jpg");
+    background-repeat: no-repeat;
 }
 
 h1 {
